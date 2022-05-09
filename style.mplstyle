@@ -1,0 +1,23 @@
+axes.prop_cycle : cycler(color=["003f5c", "d45087", "ffa600", "665191", "ff7c43", "2f4b7c", "f95d6a", "a05195"])
+figure.figsize : 12, 8
+axes.titlesize : 22
+axes.labelsize : 18
+axes.facecolor : white
+axes.titleweight : 500
+axes.labelweight : 500
+axes.linewidth : 1.5
+axes.edgecolor : 2B3A42
+font.family : Noto Sans, DejaVu Sans
+font.weight : 500
+legend.frameon : False
+legend.fontsize : 12
+lines.linewidth : 2.0
+text.color : 2B3A42
+xtick.labelsize : 14
+xtick.color : 2B3A42
+ytick.labelsize : 14
+ytick.color : 2B3A42
+savefig.bbox : tight
+savefig.dpi : 300
+axes.unicode_minus : False
+figure.facecolor : white
